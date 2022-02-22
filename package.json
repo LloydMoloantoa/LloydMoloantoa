@@ -2,11 +2,11 @@
   "name": "lloydmoloantoa",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "userController.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js",
-    "start:dev": "nodemon index.js"
+    "start": "nodemon userController.js",
+    "start:dev": "nodemon userController.js"
   },
   "author": "",
   "license": "ISC",
