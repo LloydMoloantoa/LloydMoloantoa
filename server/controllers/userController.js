@@ -26,10 +26,10 @@ var db_config = {
 }; */
 
 var db_config = {
-  host: 'localhost',
-  user: 'root',
-  password: 'root',
-  database: 'ordermanagement'
+  host: 'us-cdbr-east-05.cleardb.net',
+  user: 'b84aa3e74fa1dd',
+  password: '6644049e',
+  database: 'heroku_f60c767c35f48c9'
 };
 
 var connection;

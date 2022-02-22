@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 mysql://b84aa3e74fa1dd:6644049e@us-cdbr-east-05.cleardb.net/heroku_f60c767c35f48c9?reconnect=true
 
 Hostname: us-cdbr-east-05.cleardb.net
-Username: ba01176002d943
+Username: b84aa3e74fa1dd
 Password: 6644049e
  -->
 
