@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- mysql://ba01176002d943:52991c45@us-cdbr-east-05.cleardb.net/heroku_04fe79e8adaf453?reconnect=true
+Hostname: us-cdbr-east-05.cleardb.net
+Username: ba01176002d943
+Password: 52991c45
+ -->
