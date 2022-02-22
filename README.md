@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- mysql://ba01176002d943:52991c45@us-cdbr-east-05.cleardb.net/heroku_04fe79e8adaf453?reconnect=true
+<!-- 
+mysql://b84aa3e74fa1dd:6644049e@us-cdbr-east-05.cleardb.net/heroku_f60c767c35f48c9?reconnect=true
+
 Hostname: us-cdbr-east-05.cleardb.net
 Username: ba01176002d943
-Password: 52991c45
+Password: 6644049e
  -->
+
+ 
